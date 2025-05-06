@@ -1,0 +1,7 @@
+{
+  "FOLDER_LOC": "./",
+  "FIX_VERSION": "",
+  "JIRA_URL": "https://atlassian.net",
+  "GIT_WORKSPACE_URL": "bitbucket.org/",
+  "JQL_QUERY": "project in (\"ENL\") AND issuetype in (Bug, Story) AND fixVersion="
+}
